@@ -12,7 +12,7 @@ body,h1,h2,h3,h4,h5,h6,p,span,input,button{
 }
 
 .container{
-	width: 1000px;
+	width: 90%;
 	margin: 0 auto;
 	background:white;
 }
@@ -123,12 +123,16 @@ a,a:hover{
 	display: flow-root;
 	text-align: center;
 	background-color:#9e9e9e;
-	padding: 60px 0;
+	margin: 60px auto;
+} 
+.subscription .form-body{
+    padding: 60px 0;
 }
+
 .subscription h1{
-	    color: #4a4848;
-		font-weight: initial;
-		font-size: xx-large;
+	color: #4a4848;
+    font-weight: initial;
+	font-size: xx-large;
 	margin-bottom: 40px;
 }
 .subscription .container{
@@ -178,11 +182,6 @@ form i{
 	outline: none;
 }
 /* footer section css */
-.contain{
-	width: 1000px;
-	margin:0 auto;
-}
-
 a,a:hover{
 	text-decoration: none;
 }
@@ -194,7 +193,7 @@ a,a:hover{
 .n{
 	width: 100%;
 	float: left;
-	padding: 40px 56px;
+	margin: 40px auto;
 }
 .t{
 	width: 30%;
@@ -225,7 +224,8 @@ a,a:hover{
 	list-style: none;
 	display: inline-block;
 	color: #4a4848;
-	margin-left:17px;
+	margin-right: 10px;
+	margin-left:10px;
 }
 .social-icon ul li a i{
 	color: #4a4848;
