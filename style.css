@@ -304,6 +304,10 @@ a,a:hover{
 .t {
     width: 70%;
 }
+.t ul li {
+    font-size: 12px;
+
+}
    .social-icon {
     width: 30%;
     font-size: 12px;
