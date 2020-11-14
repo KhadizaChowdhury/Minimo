@@ -259,6 +259,12 @@ a,a:hover{
 	font-size: 15px!important;
 	text-align: left;
  }
+.logo img{
+	width: 90%;
+	float: left;
+	font-size: 15px!important;
+	text-align: left;
+ }
  .menu-item{
 	width: 70%;
 	float: right;
