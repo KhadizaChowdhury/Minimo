@@ -97,7 +97,7 @@ a,a:hover{
 	display: flow-root;
 }
 .gallery{
-	padding: 8% 5%;
+	padding: 7% 5%;
 	display: flow-root;
 }
 .post{
@@ -169,7 +169,7 @@ form i{
 .load-more{
 	text-align: center;
 	margin-top: 10px;
-	margin-bottom: 8%;
+	margin-bottom: 7%;
 }
 .load-more button{
 	padding: 2% 4%;
