@@ -239,3 +239,41 @@ a,a:hover{
 .social-icon ul li a:hover{
 	color: black;
 }
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 250px to 479px
+*/
+@media (min-width: 250px) and (max-width: 480px) {
+
+ .navbar{
+	width: 100%;
+	float: left;
+	padding: 1% 0px!important;
+ }
+ .logo{
+	width: 20%;
+	float: left;
+	font-size: 15px!important;
+	text-align: left;
+ }
+ .menu-item{
+	width: 80%;
+	float: right;
+	text-align: right;
+ }
+ .menu-item ul li{
+	list-style: none;
+	display: inline-block;
+	
+	margin-left: 5px!important;
+	margin-right: 8px!important;
+ }
+ .menu-item ul li a{
+	text-transform: uppercase;
+	color: #4a4848;
+	font-size: 15px!important;
+ }
+
+}
