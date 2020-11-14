@@ -256,7 +256,7 @@ a,a:hover{
 .logo{
 	width: 20%;
 	float: left;
-	font-size: 8px!important;
+	font-size: 10px!important;
 	text-align: left;
  }
 .logo img{
@@ -280,7 +280,7 @@ a,a:hover{
  .menu-item ul li a{
 	text-transform: uppercase;
 	color: #4a4848;
-	font-size: 12px!important;
+	font-size: 10px!important;
  }
 
 }
