@@ -169,7 +169,7 @@ form i{
 .load-more{
 	text-align: center;
 	margin-top: 10px;
-	margin-bottom: 100px;
+	margin-bottom: 8%;
 }
 .load-more button{
 	padding: 2% 4%;
@@ -279,6 +279,14 @@ a,a:hover{
 	color: #4a4848;
 	font-size: 9px!important;
  }
+  .title {
+    font-size: large;
+}
+.desc {
+    color: #626262;
+    font-size: small;
+    margin-bottom: 8%;
+}
    .left {
     width: 100%;
     float: right;
