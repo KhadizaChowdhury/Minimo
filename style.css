@@ -38,6 +38,12 @@ a,a:hover{
 	font-size: 22px;
 	text-align: left;
 }
+.logo img{
+	width: 50%;
+	float: left;
+	font-size: 12px;
+	text-align: left;
+}
 .menu-item{
 	width: 80%;
 	float: right;
