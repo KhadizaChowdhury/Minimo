@@ -253,9 +253,9 @@ a,a:hover{
 	padding: 1% 0px!important;
  }
  .logo{
-	width: 20%;
+	width: 10%;
 	float: left;
-	font-size: 15px!important;
+	font-size: 10px!important;
 	text-align: left;
  }
  .menu-item{
@@ -273,7 +273,7 @@ a,a:hover{
  .menu-item ul li a{
 	text-transform: uppercase;
 	color: #4a4848;
-	font-size: 15px!important;
+	font-size: 12px!important;
  }
 
 }
