@@ -256,11 +256,11 @@ a,a:hover{
 .logo{
 	width: 20%;
 	float: left;
-	font-size: 10px!important;
+	font-size: 12px!important;
 	text-align: left;
  }
 .logo img{
-	width: 95%;
+	width: 100%;
  }
  .menu-item{
 	width: 80%;
@@ -277,7 +277,7 @@ a,a:hover{
  .menu-item ul li a{
 	text-transform: uppercase;
 	color: #4a4848;
-	font-size: 10px!important;
+	font-size: 9px!important;
  }
 
 }
