@@ -325,5 +325,9 @@ form input {
     width: 45%;
     font-size: 12px;
 }
+.load-more button {
+    padding: 1% 2%;
+    font-size: 15px;
+}
 
 }
