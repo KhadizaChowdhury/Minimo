@@ -292,10 +292,11 @@ a,a:hover{
 	font-size: 9px!important;
  }
  .subscription h1{
-	color: #4a4848;
-    font-weight: initial;
-	font-size: 10px;
+	font-size: 10px!important;
 	margin-bottom: 0;
+}
+form input {
+    width: 10%;
 }
   .title {
     font-size: large;
