@@ -295,7 +295,7 @@ a,a:hover{
 	font-size: 10px!important;
 	margin-bottom: 0;
 }
-form input {
+.subscription form input {
     width: auto;
 }
   .title {
